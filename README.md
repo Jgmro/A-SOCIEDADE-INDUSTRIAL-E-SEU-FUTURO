@@ -1,7 +1,3 @@
-# A-SOCIEDADE-INDUSTRIAL-E-SEU-FUTURO
-MANIFESTO DE“UNABOMBER”
-
-
 <table class="infobox biography vcard">
 <tbody>
 <tr>
