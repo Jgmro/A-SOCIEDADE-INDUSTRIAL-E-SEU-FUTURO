@@ -1,7 +1,7 @@
 <table class="infobox biography vcard">
 <tbody>
 <tr>
-<td colspan="2"><a class="image" href="1.jpg"><img src="1.jpg" srcset="1.jpg" alt="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Young_theodore_kaczynski.jpeg/1280px-Young_theodore_kaczynski.jpeg" width="192" height="227" data-file-width="500" data-file-height="600" /></a>
+<td colspan="2"><a class="image" href="1.jpg"><img src="1.jpg" srcset="1.jpg" alt="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Young_theodore_kaczynski.jpeg/1280px-Young_theodore_kaczynski.jpeg" width="192" height="227" data-file-width="600" data-file-height="700" /></a>
 </td>
 
 </tr>
@@ -35,7 +35,6 @@
 <td>
 <div class="plainlist">
 <ul>
-
 <li><a title="Universidade Harvard" href="https://pt.wikipedia.org/wiki/Universidade_Harvard">Universidade Harvard</a>&nbsp;(1958-1962)</li>
 <li><a title="Universidade de Michigan" href="https://pt.wikipedia.org/wiki/Universidade_de_Michigan">Universidade de Michigan</a>&nbsp;(1962-1967)</li>
 </ul>
@@ -43,10 +42,12 @@
 </td>
 </tr>
 
+
+
+
 </tbody>
 </table>
 <hr>
-
 <ul>
  <li><a target="_blank" href="https://github.com/Jgmro/A-SOCIEDADE-INDUSTRIAL-E-SEU-FUTURO/blob/main/A%20Sociedade%20Industrial%20e%20Seu%20Futuro.pdf" style="text-decoration:none;">A Sociedade Industrial e Seu Futuro</a></li>
 
